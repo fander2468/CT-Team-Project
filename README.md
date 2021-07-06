@@ -9,7 +9,7 @@ This is the first team project for Coding Temple Bootcamp using HTML5, CSS3 and 
 - Benny Chean
 
 ### Work Completed
-- Base template for site
+- Base template for site completed by Fernando
   - Created a base template to assist with design
 - index.html completed by Fernando
   - This page contains the about-us section of the page and the news feed
