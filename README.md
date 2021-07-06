@@ -2,7 +2,8 @@
 This is the first team project for Coding Temple Bootcamp to create a site using HTML, CSS3, and Bootstrap.
 
 ### CT-Team-Project Team Members
-This is the first team project for Coding Temple Bootcamp using HTML5, CSS3 and Bootstrap-V5##Team Members
+This is the first team project for Coding Temple Bootcamp using HTML5, CSS3 and Bootstrap-V5
+## Team Members
 - Fernando Anderson
 - Thu Phung
 - Benny Chean
