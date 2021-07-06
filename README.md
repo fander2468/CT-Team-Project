@@ -19,7 +19,7 @@ This is the first team project for Coding Temple Bootcamp using HTML5, CSS3 and 
   - This page contains the services section of the page
 - contact.html Completed by Benny 
   - This page contains the contact us section of the page
- - Read.ME completed by Fernando and Benny
+ - README.md completed by Fernando and Benny
   - A short description of the site and its working members
  - Trello board
   - Created a board to assist with workflow management and assignments
